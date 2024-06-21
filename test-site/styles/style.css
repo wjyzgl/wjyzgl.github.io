@@ -1,0 +1,31 @@
+html {
+    font-size: 10px; 
+    font-family: "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  html {
+    background-color: #0f68dd;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #00ffea;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(184, 233, 10);
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    width:600px
+  }
+  
